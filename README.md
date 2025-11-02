@@ -3,7 +3,7 @@ This repo contains my 8-week hands-on cybersecurity &amp; ethical hacking plan, 
 ## 📚 Weekly Roadmap (check when complete)
 
 ### Week 1 — Foundations: Linux + Command Line (Kali)
-- [x] Read: Linux basics & terminal navigation.
+- [ ] Read: Linux basics & terminal navigation.
 - [ ] Practice commands: `ls`, `cd`, `pwd`, `cp`, `mv`, `rm`, `cat`, `less`, `head`, `tail`.
 - [ ] Users & perms: `chmod`, `chown`, `useradd`, `passwd`.
 - [ ] Processes: `ps aux`, `top`, `kill`.
