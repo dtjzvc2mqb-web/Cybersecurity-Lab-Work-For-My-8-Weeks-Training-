@@ -3,13 +3,13 @@ This repo contains my 8-week hands-on cybersecurity &amp; ethical hacking plan, 
 ## 📚 Weekly Roadmap (check when complete)
 
 ### Week 1 — Foundations: Linux + Command Line (Kali)
-- [ ] Read: Linux basics & terminal navigation.
-- [ ] Practice commands: `ls`, `cd`, `pwd`, `cp`, `mv`, `rm`, `cat`, `less`, `head`, `tail`.
-- [ ] Users & perms: `chmod`, `chown`, `useradd`, `passwd`.
-- [ ] Processes: `ps aux`, `top`, `kill`.
-- [ ] Package management: `sudo apt update && sudo apt upgrade -y`.
-- [ ] Complete TryHackMe: Linux intro room.
-- [ ] Deliverable: `week1/README.md` summarizing 10 commands used.
+- [x] Read: Linux basics & terminal navigation.
+- [x] Practice commands: `ls`, `cd`, `pwd`, `cp`, `mv`, `rm`, `cat`, `less`, `head`, `tail`.
+- [x] Users & perms: `chmod`, `chown`, `useradd`, `passwd`.
+- [x] Processes: `ps aux`, `top`, `kill`.
+- [x] Package management: `sudo apt update && sudo apt upgrade -y`.
+- [x] Complete TryHackMe: Linux intro room.
+- [x] Deliverable: `week1/README.md` summarizing 10 commands used.
 
 ### Week 2 — Networking Basics & Reconnaissance
 - [ ] Study: TCP/IP, ports, DNS, ARP.
