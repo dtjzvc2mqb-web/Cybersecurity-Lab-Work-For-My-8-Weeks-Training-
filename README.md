@@ -12,8 +12,8 @@ This repo contains my 8-week hands-on cybersecurity &amp; ethical hacking plan, 
 - [x] Deliverable: `week1/README.md` summarizing 10 commands used.
 
 ### Week 2 — Networking Basics & Reconnaissance
-- [ ] Study: TCP/IP, ports, DNS, ARP.
-- [ ] Run: `ip a`, `ip route`, `ifconfig` (if present).
+- [x] Study: TCP/IP, ports, DNS, ARP.
+- [x] Run: `ip a`, `ip route`, `ifconfig` (if present).
 - [ ] Run nmap scans: `nmap -sC -sV -p- <target>`.
 - [ ] Capture traffic with Wireshark.
 - [ ] Deliverable: `week2/nmap-report.md` and `week2/capture.pcap`.
